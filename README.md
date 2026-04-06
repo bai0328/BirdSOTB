@@ -111,6 +111,15 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
 ![Distribution Analysis](./figures/fig2.png)
 *Fig 2. Distribution analysis of bounding box area (Percentage and Pixel) via KDE.*
 
+## Tracking Performance Evaluation
+
+![OPE Evaluation](./figures/fig4.png)
+*Fig 4. OPE evaluation results, including success rate and precision rate.*
+
+![Attribute Evaluation](./figures/fig5.png)
+*Fig 5. Track algorithm performance evaluation results on core attributes.*
+
+
 ## Qualitative Evaluation
 
 ![Qualitative Evaluation](./figures/fig3.png)
