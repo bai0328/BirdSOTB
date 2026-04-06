@@ -12,7 +12,6 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
 - **Specialized Dataset**: 14 video sequences with 5,489 frames, specifically focusing on bird targets.
 - **Diverse Challenges**: Covers Fast Movement (FM), Small Target (ST), Occlusion (POC/FOC), Out-of-View (OV), and Motion Blur (MB).
 - **Quantitative Evaluation**: A rigorous quantitative attribute evaluation system based on multiple metrics (Scale Ratio, Area Ratio, Normalized Speed, etc.).
-- **High-Precision Annotation**: All sequences are manually annotated with high precision to ensure geometric consistency.
 
 ## Quantitative Comparison
 
