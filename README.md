@@ -42,7 +42,7 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
       <td>0.04%</td>
       <td>17.02%</td>
       <td>0.1122</td>
-      <td></b>593.35</b></td>
+      <td><b>593.35</b></td>
       <td>1.24%</td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
       <td>85.13%</td>
       <td>0.03%</td>
       <td>1.04%</td>
-      <td></b>0.1706</b></td>
+      <td><b>0.1706</b></td>
       <td>26.05</td>
       <td>0</td>
     </tr>
