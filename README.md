@@ -118,7 +118,7 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
 
 ## Availability
 
-- **Dataset & Code**: Coming soon.
+- **Dataset**: Coming soon.
 
 ---
 © 2026 BirdSOTB Team. All rights reserved.
