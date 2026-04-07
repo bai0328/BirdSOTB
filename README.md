@@ -113,16 +113,16 @@ Visual object tracking of birds faces unique challenges such as high-speed maneu
 ## Tracking Performance Evaluation
 
 ![OPE Evaluation](./figures/fig4.png)
-*Fig 4. OPE evaluation results, including success rate and precision rate.*
+*Fig 3. OPE evaluation results, including success rate and precision rate.*
 
 ![Attribute Evaluation](./figures/fig5.png)
-*Fig 5. Track algorithm performance evaluation results on core attributes.*
+*Fig 4. Track algorithm performance evaluation results on core attributes.*
 
 
 ## Qualitative Evaluation
 
 ![Qualitative Evaluation](./figures/fig3.png)
-*Fig 3. Qualitative evaluation of challenging sequences in the BirdSOTB dataset.*
+*Fig 5. Qualitative evaluation of challenging sequences in the BirdSOTB dataset.*
 
 ## Availability
 
